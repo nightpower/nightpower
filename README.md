@@ -25,7 +25,7 @@
 <br>
 ![Docker](https://img.shields.io/badge/Docker-181717?logo=docker&style=flat-square)
 ![Kubernet](https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=Kubernetes)
-![Nginx](https://img.shields.io/badge/Nginx-181717?logo=nginx&style=style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-181717?logo=nginx&style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux)
