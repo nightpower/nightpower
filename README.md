@@ -24,7 +24,7 @@
 ![Next](https://img.shields.io/badge/next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white)
 <br>
 ![Docker](https://img.shields.io/badge/Docker-181717?logo=docker&style=flat-square)
-![Kubernet](https://img.shields.io/badge/Kubernetes-181717?style=for-flat-square&logo=Kubernetes)
+![Kubernet](https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=Kubernetes)
 ![Nginx](https://img.shields.io/badge/Nginx-181717?logo=nginx&style=style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git)
