@@ -18,7 +18,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-181717?style=flat-square&logo=redis)
-<br>
 ![Vue](https://img.shields.io/badge/Vue-181717?style=flat-square&logo=vue.js)
 ![Nuxt](https://img.shields.io/badge/Nuxt-181717?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-ReactJs-181717?logo=react&logoColor=white&style=flat-square)
